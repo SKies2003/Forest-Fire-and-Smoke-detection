@@ -64,4 +64,4 @@ Performance visualizations and further details are available in the `Main.ipynb`
 ### Contact
 
 For questions or feedback, please reach out to: Gagan Singhal
-LinkedIn: <https://github.com/SKies2003>
+LinkedIn: <https://www.linkedin.com/in/singhalgagan/>
